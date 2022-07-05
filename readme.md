@@ -15,9 +15,17 @@ There may be some miscalculations of the immediate values in some instructions. 
 
 # Contributions:
 - Ibrahim Gohar:
-    - 
+    - Developing and testing the instDecExec32() function that processes the RV32C instructions.
+    - Developing Web-based UI and Deploy it online using ngrok
+    - Developing the function responsible for diffrentiating between 16-bit and 32-bit instructions as well as reading them
+    - Using bitmasks to load different immediate values
+    - Developing function to map the register to its names
+    - Developing function to Label different addresses using maps
 - Moneer Maged:
-    - 
+    - managing the project implementation process. 
+    - defining a huge map for compressed and non-compressed istruction 
+    - defining tasks and assigning deadlines for them. 
+    - Developing the function responsible for diffrentiating between 16-bit and 32-bit instructions.
 - Abdelaaty Rehab:
     - Developing and testing the instDecExec16() function that processes the RV32C instructions.
     - Maintaining a consistent indentation style across the .cpp files.
